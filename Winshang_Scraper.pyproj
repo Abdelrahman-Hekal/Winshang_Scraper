@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a3e2fbbd-f63c-4047-be2c-e08e0d10e0e2</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Winshang_Scraper_v1.py</StartupFile>
+    <StartupFile>Winshang_Scraper_v1.1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Winshang_Scraper_v1.py" />
+    <Compile Include="Winshang_Scraper_v1.1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
